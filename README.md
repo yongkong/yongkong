@@ -1,9 +1,3 @@
-# Kong Yong — GitHub Profile README
-
-> 推送到 `yongkong/yongkong` 仓库的 README.md。与 Upwork profile 同一套定位文案(匿名化,无公司名)。
-
----
-
 ## Hi, I'm Kong Yong 👋
 
 **Full-Stack Developer — C#/.NET · TypeScript/Next.js · AI-augmented workflow**
