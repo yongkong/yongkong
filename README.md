@@ -23,7 +23,13 @@
 - **Also fluent in**: Python, Java, PHP
 - **Also shipping on**: WeChat Mini Programs, Windows desktop
 
-### Featured project
+### Featured projects
+
+**[资治通鉴学堂 — a free public learning site for Sima Guang's 1,362-year chronicle](https://zztj.yongkong.dev)**
+
+A classical-Chinese reader plus structured courseware built on two complete editions of the *Zizhi Tongjian* — the Hu Sanxing annotated original and Bo Yang's 72-volume modern translation. 48 decision-focused lessons (story → classical–vernacular parallel passages → takeaways → quiz), a 294-volume annotated reader with year anchors, and retrieval-practice flash cards, all served as **650+ prerendered static pages** with no login and no backend. A Python/Node content pipeline parses two EPUBs into static JSON, with anchor-text addressing that fails fast on corpus drift. Next.js 16 static export · React 19 · Tailwind CSS 4.
+
+📂 [Source](https://github.com/yongkong/ZiZhiTongJian) · live at [zztj.yongkong.dev](https://zztj.yongkong.dev)
 
 **[Agent Skills 中文课 — a public course site teaching AI-native development workflows](https://yongkong.github.io/learn-mattpocock-skills/)**
 
