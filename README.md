@@ -1,7 +1,9 @@
 # Kong Yong — GitHub Profile README
 
-> 推送到 `yongkong/yongkong` 仓库的 README.md。与 Upwork profile 同一套定位文案(匿名化,无公司名)。
-> 与个人网站 https://yongkong.dev 互相链接、互相呼应:README 导流到站点,站点导流回 GitHub。
+<!--
+  内部备注(渲染时隐藏):推送到 `yongkong/yongkong` 仓库的 README.md。与 Upwork profile 同一套定位文案(匿名化,无公司名)。
+  与个人网站 https://yongkong.dev 互相链接、互相呼应:README 导流到站点,站点导流回 GitHub。
+-->
 
 ---
 
