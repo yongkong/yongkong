@@ -19,7 +19,7 @@
 - **Frontend**: Angular, Vue, TypeScript, Next.js
 - **AI in production**: OCR pipelines, ML-based classification, LLM-powered features
 - **Also fluent in**: Python, Java, PHP
-- **Also shipping on**: Flutter (iOS/Android), WeChat Mini Programs, Windows desktop
+- **Also shipping on**: WeChat Mini Programs, Windows desktop
 
 ### Featured project
 
